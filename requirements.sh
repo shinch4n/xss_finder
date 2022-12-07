@@ -1,3 +1,4 @@
+sudo apt update
 sudo apt install xterm subfinder assetfinder golang -y
 go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/tomnomnom/waybackurls@latest
