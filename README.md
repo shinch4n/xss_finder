@@ -49,7 +49,7 @@ chmod +x xss.sh
 ```
 Install the dependencies:
 ```
-sudo ./requirement.sh
+./requirement.sh
 ```
 Run the script:
 ```
